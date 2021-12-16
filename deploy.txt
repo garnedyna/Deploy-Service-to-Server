@@ -1,0 +1,8 @@
+Link Heroku : https://zoo-hewan.herokuapp.com/
+Link project : https://github.com/garnedyna/deploy-project
+
+End Point
+1. /hewan GET ALL 
+2. /hewan/2 GET by ID
+
+
